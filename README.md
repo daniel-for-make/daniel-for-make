@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @daniel-for-make
-- 👀 I’m interested in ethcial hacking, network and food 
-- 🌱 I’m currently learning for the CCNA exam 
+- 👀 I’m interested in ethcial hacking, network, programming and food
 - 📫 How to reach me:
   Discord - JRdt#2335
   
