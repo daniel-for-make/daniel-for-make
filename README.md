@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @daniel-for-make
-- 👀 I’m interested in ethcial hacking, network, programming and food
+- 👀 I’m interested in network and programming (c#, Python) 
 - 📫 How to reach me:
   Discord - JRdt#2335
   
