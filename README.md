@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @daniel-for-make
-- 👀 I’m interested in network and programming (c#, Python) 
+- 👀 I’m interested in network and programming
 - 📫 How to reach me:
   Discord - JRdt#2335
   
