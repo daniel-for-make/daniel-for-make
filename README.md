@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @daniel-for-make
-- 👀 I’m interested in network and programming
+- 👀 Being a developer is a journey where the next stop is solving a problem.
 - 📫 How to reach me:
   Discord - JRdt#2335
   
